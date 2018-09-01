@@ -19,7 +19,7 @@
 
         public decimal Unit_Material_Cost { get; set; }
 
-        public DateTime STATUS_EFF_DATE { get; set; }   
+        public DateTime STATUS_EFF_DATE { get; set; }
 
     }
 }

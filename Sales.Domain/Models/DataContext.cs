@@ -8,5 +8,7 @@
         {
 
         }
+
+        public System.Data.Entity.DbSet<Sales.Common.Models.Part> Parts { get; set; }
     }
 }
